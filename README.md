@@ -14,7 +14,7 @@ Admin Yetkisinin Özellikleri:Personel Ekleme,Personel Silme,Personel Bilgilerin
 
 Uygulamaya Ait Ekran Görüntüleri
 
-1-Giriş Ekranı
+1-Giriş Ekranı:
 ![11](https://github.com/emreezim/Personel_MolaTakipUygulamasi/assets/126778965/17ac2342-62fe-4039-ac56-d03a90f8c07d)
 2-Kayıt Ekranı:
 ![2](https://github.com/emreezim/Personel_MolaTakipUygulamasi/assets/126778965/37043866-2127-4789-a600-3ced985fa204)
